@@ -56,3 +56,7 @@ const brr = [10, 20, 51, 90, 54, 89, 32];
 const target = 42;
 let ans = Solve(brr, target);
 console.log(ans);
+
+/* HomeWork
+Find max elemet in the array
+Find min elemt in the array */ 
